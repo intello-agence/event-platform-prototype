@@ -422,7 +422,7 @@ Fondateur & Lead Developer @ [Intello](https://github.com/intello-agence)
 
 - 🌐 Portfolio : *(à venir)*
 - 💼 LinkedIn : *(à ajouter)*
-- 📧 Email : *(contact@intello.sn)*
+- 📧 Email : *(intellopjsn@gmail.com)*
 
 ---
 
